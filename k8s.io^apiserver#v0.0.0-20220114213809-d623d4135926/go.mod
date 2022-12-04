@@ -1,0 +1,5 @@
+module k8s.io/apiserver-v0.0.0-20220114213809-d623d4135926
+
+go 1.17
+
+require k8s.io/apiserver v0.0.0-20220114213809-d623d4135926

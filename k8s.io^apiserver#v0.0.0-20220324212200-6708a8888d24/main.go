@@ -1,0 +1,8 @@
+package k8s.io^apiserver#v0.0.0-20220324212200-6708a8888d24
+
+import _ "k8s.io/apiserver"
+import "fmt"
+
+func main() {
+    fmt.Println('a')
+}
